@@ -6,8 +6,11 @@ Exercises for Todd McLeod Golang Udemy course: https://www.udemy.com/course/lear
 Variables, values, & type
 ## Ninja Level 2
 Programming fundamentals
-## Ninja Level 3
-Control Flow
+## Ninja Level 3: Control Flow
+* Exercise 1-5: Loops
+* Exercise 6-7: if/else
+* Exercise 8-9: Switch
+* Exercise 10 : Conditional Operators
 ## Ninja Level 4
 Grouping data
 ## Ninja Level 5
