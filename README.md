@@ -11,8 +11,11 @@ Programming fundamentals
 * Exercise 6-7: if/else
 * Exercise 8-9: Switch
 * Exercise 10 : Conditional Operators
-## Ninja Level 4
-Grouping data
+## Ninja Level 4: Grouping data
+* Exercise 1-&nbsp;&nbsp;&nbsp;&nbsp;: Arrays
+* Exercise 2-7&nbsp;&nbsp;: Slice, Append, 2D-Slice
+* Exercise 8-10: Map
+
 ## Ninja Level 5
 Structs
 ## Ninja Level 6
