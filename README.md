@@ -18,8 +18,13 @@ Programming fundamentals
 
 ## Ninja Level 5
 Structs
-## Ninja Level 6
-Functions
+## Ninja Level 6: Functions
+* Exercise 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Declaration & Calling
+* Exercise 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Variadic Parameters 
+* Exercise 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Defer
+* Exercise 4-5&nbsp;&nbsp;: Method Binding
+* Exercise 6-10: First-class Citizens
+
 ## Ninja Level 7
 Pointers
 ## Ninja Level 8
